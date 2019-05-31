@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1558290853 source:c:\users\user\desktop\programowanie\code blocks dokumenty\wyzwania\wyzwanie 10 ulepszanie ksiazki adresowej\ksiazka adresowa wektorowo + opcje\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<sstream>
+	<vector>
+

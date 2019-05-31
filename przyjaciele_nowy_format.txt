@@ -1,0 +1,3 @@
+2|waldemar|lysiak|345 234 323|lysiak@com|mazowieckie|
+3|philip|k.dick|123 345 313|philipus@com|US |
+4|stephen|king|234 23 123|king.derry@com|castle rock 44 maine US|
